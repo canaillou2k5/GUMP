@@ -6,7 +6,7 @@ return array(
     'validate_max_len'              => 'The {field} field needs to be {param} or shorter in length',
     'validate_min_len'              => 'The {field} field needs to be {param} or longer in length',
     'validate_exact_len'            => 'The {field} field needs to be exactly {param} characters in length',
-    'validate_alpha'                => 'The {field} field may only contain alpha characters(a-z)',
+    'validate_alpha'                => 'The {field} field may only contain alpha characters (a-z, A-Z)',
     'validate_alpha_numeric'        => 'The {field} field may only contain alpha-numeric characters',
     'validate_alpha_dash'           => 'The {field} field may only contain alpha characters &amp; dashes',
     'validate_alpha_space'          => 'The {field} field may only contain alpha characters &amp; spaces',
